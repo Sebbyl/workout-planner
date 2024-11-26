@@ -1,0 +1,69 @@
+[
+  {
+    "id": 0,
+    "title": "Chest Day",
+    "description": "",
+    "workouts": [
+      {
+        "workoutId": 0,
+        "name": "Barbell Bench Press",
+        "reps": { "min": 4, "max": 8 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "workoutId": 1,
+        "name": "Dumbbell Lateral Raise",
+        "reps": { "min": 8, "max": 12 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "workoutId": 2,
+        "name": "Tricep Extension",
+        "reps": { "min": 8, "max": 12 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "workoutId": 3,
+        "name": "Incline Dumbbell Bench Press",
+        "reps": { "min": 8, "max": 12 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Back Day",
+    "workouts": [
+      {
+        "workoutId": 0,
+        "name": "T-Bar Row",
+        "reps": { "min": 4, "max": 8 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "workoutId": 1,
+        "name": "Lat Pulldown",
+        "reps": { "min": 10, "max": 12 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "workoutId": 2,
+        "name": "Bicep Curl",
+        "reps": { "min": 12, "max": 15 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "workoutId": 3,
+        "name": "Row",
+        "reps": { "min": 8, "max": 12 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "workoutId": 4,
+        "name": "Preacher Curl",
+        "reps": { "min": 8, "max": 12 },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ]
+  }
+]
